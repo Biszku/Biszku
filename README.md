@@ -2,9 +2,9 @@
 <br><br><br>
 - 🌱 I’m currently learning: nodejs
 <br><br>
-- 👨‍💻 All of my projects are available at [https://www.biszku.dev/](https://www.biszku.dev/)
+- 👨‍💻 All of my projects are available at: <a href="https://www.biszku.dev" target="_BLANK">biszku.dev</a>
 <br><br>
-- 📫 How to reach me **contact@biszku.dev**
+- 📫 How to reach me: <a href="mailto:contact@biszku.dev">contact@biszku.dev</a>
 <br><br>
 <p align="left">
 </p>
