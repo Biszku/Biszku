@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <br><br><br>
-- 🌱 I’m currently learning: nodejs, Jest and Cypress
+- 🌱 I’m currently learning: Java
 <br><br>
 - 👨‍💻 All of my projects are available at: <a href="https://www.biszku.dev" target="_BLANK">biszku.dev</a>
 <br><br>
