@@ -14,10 +14,6 @@
 
 ###
 
-<p align="left">- 📫 How to reach me: contact@biszku.dev</p>
-
-###
-
 <h3 align="left">Languages and Tools:</h3>
 
 ###
